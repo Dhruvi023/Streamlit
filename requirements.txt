@@ -1,0 +1,9 @@
+genipe
+pandas
+numpy
+streamlit
+requests
+matplotlib
+scikit-learn 
+xlrd
+openpyxl
